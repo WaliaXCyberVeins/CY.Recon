@@ -1,5 +1,5 @@
 # CY.Recon - Reconnaissance Tool
-## By Cyberveins | Team ID: CY202501NAND
+## By Cyberveins | Team ID: CY202501
 
 Professional reconnaissance suite with graphical and command-line interfaces.
 
