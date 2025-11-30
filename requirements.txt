@@ -1,0 +1,13 @@
+# Core runtime
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+dnspython>=2.4.2
+python-whois>=0.7.3
+tldextract>=3.4.0
+
+# For type hints / dataclasses compatibility (if using older Python)
+typing-extensions; python_version < "3.8"
+
+# Optional helpful packages
+urllib3>=2.0.4
+certifi>=2024.4.0
